@@ -1,0 +1,15 @@
+11/08/2020  -  Janmastami
+15/08/2020  -  Independence_Day
+22/08/2020	-  Ganesh_Puja
+02/10/2020	-  Gandhi_Jayanti
+23/10/2020	-  Durga_Puja_Holiday
+24/10/2020	-  Durga_Puja_Holiday
+25/10/2020	-  Durga_Puja_Holiday
+26/10/2020	-  Durga_Puja_Holiday
+14/11/2020	-  Diwali
+25/12/2020	-  X-Mas_Day
+01/01/2021	-  New_Year_Day
+26/01/2021	-  Republic_Day
+16/02/2021	-  Saraswati_Puja
+11/03/2021	-  Maha_Sivaratri
+29/03/2021	-  Holi

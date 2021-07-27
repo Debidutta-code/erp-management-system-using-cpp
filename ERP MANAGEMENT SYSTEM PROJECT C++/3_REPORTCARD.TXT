@@ -1,0 +1,7 @@
+200301120166 deepan behera btech ece b 9.0 43
+200301120178 biswopati samal btech mech a 8.5 42
+200301120180 debidutta acharya btech cse c 9.05 45
+200301120175 soumya nayak btech cse b 7.8 47
+200301120176 mayank gopal btech cse c 9.4 44
+200301120126 habib rehaman btech cse c 8.3 42
+200301120128 kiran malik btech cse c 9.19 41

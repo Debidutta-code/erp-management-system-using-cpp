@@ -1,0 +1,10 @@
+j  u  l  y  m  o  n  t  h  . 
+_   _ _   _ _   _ _   _ _   _
+1   | 2   | 3   | 4   | 5   |
+=   = =   = =   = =   = =   =
+P   | A   | P   | A   | P   |
+A   | P   | P   | A   | A   |
+P   | P   | P   | P   | P   |
+A   | P   | P   | A   | P   |
+P   | P   | P   | A   | P   |
+P   | P   | A   | P   | P   |

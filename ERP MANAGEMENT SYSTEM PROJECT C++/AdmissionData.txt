@@ -1,0 +1,20 @@
+debidutta acharya	6371875968		odisha		cuttack		45		34		
+
+debidutta acharya	6371875968		odisha		cuttack		56		34		
+
+debidutta acharya	6371875968		odisha		block		67		12		
+
+deepan behera	6547323456		odisha		berampur		68		56		
+
+saikh habib	  5678912345		odisha		cuttack		78		90		
+
+biswopati samal  3456343234     odisha     kendrapada     56     78
+
+rahul samantray	6371875968		kasmir		fauloda		56		45		
+
+debidutta acharya	6371875968		odisha		cuttack		51		41		
+
+sweta acharya	1234567892		odisha		cuttack		60		80		
+
+sweta acharya	6758493829		odisha		cuttack		56		90			
+
